@@ -3,6 +3,8 @@ a=3
 b=9
 d=9
 c=a+b
+e=a
 print c
 d=a+b+d
 print d
+print e
